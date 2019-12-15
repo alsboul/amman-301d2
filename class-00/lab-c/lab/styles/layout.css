@@ -1,0 +1,60 @@
+nav, article, aside, footer section {
+    margin: 0 auto;
+  }
+  nav {
+    margin-top: 25px;
+  }
+  #logo {
+    float: left;
+    padding-bottom: 25px;
+  }
+  #logo img {
+    float: left;
+  }
+  #logo h1 {
+    padding-left: 50px;
+  }
+
+  #slogan {
+    padding-left: 55px;
+  }
+
+
+  nav ul {
+    float: right;
+  }
+  
+  nav li {
+    float: left;
+    padding-right: 2px;
+  }
+  h2 {
+    margin-top: 50px;
+  }
+  aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+  }
+  
+  aside img {
+    float: left;
+  }
+  aside h3 {
+    padding-left: 100px;
+    padding-bottom: 10px;
+  }
+  
+  aside p {
+    padding-left: 100px;
+    margin: 0;
+  
+  }
+  
+  aside button {
+    float: right;
+    padding: 15px 40px;
+  }
+  footer section p{
+    padding: 50px 0;
+    text-align: center;
+  }
