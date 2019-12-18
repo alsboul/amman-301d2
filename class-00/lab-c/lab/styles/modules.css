@@ -25,24 +25,15 @@ nav, article, aside, footer section {
     text-indent: 0;
   }
   .recipe li {
-    float: left;
     width: 40%;
     font-size: 1.3em;
     line-height: 31px;
   }
   .recipe {
     height: 260px;
-    padding: 37px 0 0 60px;
-    margin: 40px 0;
   }
-  .date {
-    float: left;
-  }
+  
   .print {
     text-decoration: none;
-    padding-left: 30px;
-    float: right;
   }
-  .print img {
-    margin-right: 3px;
-  }
+  

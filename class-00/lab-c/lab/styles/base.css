@@ -30,9 +30,6 @@
   }
   .print, .date {
     color: #a9a8a5;
-    margin: 0;
-    margin-top: 10px;
-    margin-bottom: 33px;
   }
   aside button {
     font-family: 'Abel', sans-serif;
@@ -60,5 +57,4 @@
     font-size: 1.2em;
     line-height: 1.3em;
     text-indent: 30px;
-    margin: 20px 0px;
   }
